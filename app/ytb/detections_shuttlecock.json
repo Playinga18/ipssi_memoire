@@ -1,0 +1,1328 @@
+[
+    {
+        "frame_id": 6,
+        "timestamp": "2025-07-29T12:39:46.432721",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.2137317806482315,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 7,
+        "timestamp": "2025-07-29T12:39:46.486266",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.21344393491744995,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 8,
+        "timestamp": "2025-07-29T12:39:46.531814",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.24940510094165802,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 9,
+        "timestamp": "2025-07-29T12:39:46.583886",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.2504943013191223,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 10,
+        "timestamp": "2025-07-29T12:39:46.625946",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.3019706606864929,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 11,
+        "timestamp": "2025-07-29T12:39:46.671348",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.30246976017951965,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 12,
+        "timestamp": "2025-07-29T12:39:46.716352",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.3588232100009918,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 13,
+        "timestamp": "2025-07-29T12:39:46.767274",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.37348854541778564,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 14,
+        "timestamp": "2025-07-29T12:39:46.811867",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.41081857681274414,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 15,
+        "timestamp": "2025-07-29T12:39:46.859413",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.411752849817276,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 16,
+        "timestamp": "2025-07-29T12:39:46.904855",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.3907281458377838,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 17,
+        "timestamp": "2025-07-29T12:39:46.963929",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.3914148211479187,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 18,
+        "timestamp": "2025-07-29T12:39:47.014461",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.4054735600948334,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 19,
+        "timestamp": "2025-07-29T12:39:47.064570",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.406556636095047,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 20,
+        "timestamp": "2025-07-29T12:39:47.109622",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.429317444562912,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 21,
+        "timestamp": "2025-07-29T12:39:47.160266",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.42749160528182983,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 22,
+        "timestamp": "2025-07-29T12:39:47.204188",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.4000811278820038,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 23,
+        "timestamp": "2025-07-29T12:39:47.250951",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.39837878942489624,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 24,
+        "timestamp": "2025-07-29T12:39:47.294654",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.43831154704093933,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 25,
+        "timestamp": "2025-07-29T12:39:47.348406",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.44444406032562256,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 26,
+        "timestamp": "2025-07-29T12:39:47.387987",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5041815638542175,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 27,
+        "timestamp": "2025-07-29T12:39:47.437496",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5039881467819214,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 28,
+        "timestamp": "2025-07-29T12:39:47.480170",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.4483056366443634,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 29,
+        "timestamp": "2025-07-29T12:39:47.536539",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.447934627532959,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 30,
+        "timestamp": "2025-07-29T12:39:47.575499",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.46357086300849915,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 31,
+        "timestamp": "2025-07-29T12:39:47.623556",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.46160808205604553,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 32,
+        "timestamp": "2025-07-29T12:39:47.670658",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.4081164300441742,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 33,
+        "timestamp": "2025-07-29T12:39:47.744397",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.39250099658966064,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 34,
+        "timestamp": "2025-07-29T12:39:47.808404",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.529065728187561,
+        "bbox": [
+            703.0,
+            266.0,
+            722.0,
+            285.0
+        ]
+    },
+    {
+        "frame_id": 35,
+        "timestamp": "2025-07-29T12:39:47.857968",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5302277207374573,
+        "bbox": [
+            703.0,
+            266.0,
+            722.0,
+            285.0
+        ]
+    },
+    {
+        "frame_id": 36,
+        "timestamp": "2025-07-29T12:39:47.901232",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.20035545527935028,
+        "bbox": [
+            712.0,
+            261.0,
+            730.0,
+            279.0
+        ]
+    },
+    {
+        "frame_id": 38,
+        "timestamp": "2025-07-29T12:39:47.995723",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.20176298916339874,
+        "bbox": [
+            720.0,
+            257.0,
+            738.0,
+            276.0
+        ]
+    },
+    {
+        "frame_id": 40,
+        "timestamp": "2025-07-29T12:39:48.088025",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.26009222865104675,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 41,
+        "timestamp": "2025-07-29T12:39:48.145594",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.26197612285614014,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 42,
+        "timestamp": "2025-07-29T12:39:48.183418",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.3210923373699188,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 43,
+        "timestamp": "2025-07-29T12:39:48.232383",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.31941816210746765,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 44,
+        "timestamp": "2025-07-29T12:39:48.274846",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.20780958235263824,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 45,
+        "timestamp": "2025-07-29T12:39:48.328058",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.209063321352005,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 46,
+        "timestamp": "2025-07-29T12:39:48.369311",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.32800328731536865,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 47,
+        "timestamp": "2025-07-29T12:39:48.417221",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.32564055919647217,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 48,
+        "timestamp": "2025-07-29T12:39:48.461831",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.4480665922164917,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 49,
+        "timestamp": "2025-07-29T12:39:48.521137",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.4484114944934845,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 50,
+        "timestamp": "2025-07-29T12:39:48.572588",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.3543122112751007,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 51,
+        "timestamp": "2025-07-29T12:39:48.620297",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.3543089032173157,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 52,
+        "timestamp": "2025-07-29T12:39:48.665778",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.23001664876937866,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 53,
+        "timestamp": "2025-07-29T12:39:48.714385",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.22723866999149323,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 60,
+        "timestamp": "2025-07-29T12:39:49.037312",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5209235548973083,
+        "bbox": [
+            773.0,
+            282.0,
+            791.0,
+            301.0
+        ]
+    },
+    {
+        "frame_id": 61,
+        "timestamp": "2025-07-29T12:39:49.088128",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5214171409606934,
+        "bbox": [
+            773.0,
+            282.0,
+            791.0,
+            301.0
+        ]
+    },
+    {
+        "frame_id": 62,
+        "timestamp": "2025-07-29T12:39:49.131296",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.6298326253890991,
+        "bbox": [
+            776.0,
+            289.0,
+            795.0,
+            308.0
+        ]
+    },
+    {
+        "frame_id": 63,
+        "timestamp": "2025-07-29T12:39:49.179865",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.6299822330474854,
+        "bbox": [
+            776.0,
+            289.0,
+            795.0,
+            308.0
+        ]
+    },
+    {
+        "frame_id": 64,
+        "timestamp": "2025-07-29T12:39:49.224205",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.6996521353721619,
+        "bbox": [
+            779.0,
+            296.0,
+            797.0,
+            314.0
+        ]
+    },
+    {
+        "frame_id": 65,
+        "timestamp": "2025-07-29T12:39:49.303939",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.6999805569648743,
+        "bbox": [
+            779.0,
+            296.0,
+            797.0,
+            314.0
+        ]
+    },
+    {
+        "frame_id": 66,
+        "timestamp": "2025-07-29T12:39:49.348377",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5667612552642822,
+        "bbox": [
+            782.0,
+            305.0,
+            800.0,
+            324.0
+        ]
+    },
+    {
+        "frame_id": 67,
+        "timestamp": "2025-07-29T12:39:49.398834",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5664373636245728,
+        "bbox": [
+            782.0,
+            305.0,
+            800.0,
+            324.0
+        ]
+    },
+    {
+        "frame_id": 68,
+        "timestamp": "2025-07-29T12:39:49.446019",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.2641362249851227,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 69,
+        "timestamp": "2025-07-29T12:39:49.496803",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.26361724734306335,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 70,
+        "timestamp": "2025-07-29T12:39:49.537225",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.35749173164367676,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 71,
+        "timestamp": "2025-07-29T12:39:49.586546",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.35671404004096985,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 72,
+        "timestamp": "2025-07-29T12:39:49.628961",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.22585619986057281,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 73,
+        "timestamp": "2025-07-29T12:39:49.683459",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.22730989754199982,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 74,
+        "timestamp": "2025-07-29T12:39:49.724599",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.20928512513637543,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 75,
+        "timestamp": "2025-07-29T12:39:49.773313",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.20926406979560852,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 92,
+        "timestamp": "2025-07-29T12:39:50.595973",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.3336859941482544,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 93,
+        "timestamp": "2025-07-29T12:39:50.648190",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.33307841420173645,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 94,
+        "timestamp": "2025-07-29T12:39:50.688624",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5156470537185669,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 95,
+        "timestamp": "2025-07-29T12:39:50.738259",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5154176354408264,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 96,
+        "timestamp": "2025-07-29T12:39:50.781668",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.36563873291015625,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 97,
+        "timestamp": "2025-07-29T12:39:50.865534",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.37840747833251953,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 98,
+        "timestamp": "2025-07-29T12:39:50.906916",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5466667413711548,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 99,
+        "timestamp": "2025-07-29T12:39:50.955585",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5457784533500671,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 100,
+        "timestamp": "2025-07-29T12:39:50.999464",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5533907413482666,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 101,
+        "timestamp": "2025-07-29T12:39:51.054336",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5552218556404114,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 102,
+        "timestamp": "2025-07-29T12:39:51.107471",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5515291094779968,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 103,
+        "timestamp": "2025-07-29T12:39:51.156967",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5495471358299255,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 104,
+        "timestamp": "2025-07-29T12:39:51.201196",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.20642700791358948,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 105,
+        "timestamp": "2025-07-29T12:39:51.258199",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.20511524379253387,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 108,
+        "timestamp": "2025-07-29T12:39:51.402576",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.3808138072490692,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 109,
+        "timestamp": "2025-07-29T12:39:51.456044",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.38103169202804565,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 110,
+        "timestamp": "2025-07-29T12:39:51.496749",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.4141290485858917,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 111,
+        "timestamp": "2025-07-29T12:39:51.546832",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.4132100045681,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 112,
+        "timestamp": "2025-07-29T12:39:51.588844",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5282073616981506,
+        "bbox": [
+            497.0,
+            196.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 113,
+        "timestamp": "2025-07-29T12:39:51.648053",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5266380310058594,
+        "bbox": [
+            497.0,
+            196.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 114,
+        "timestamp": "2025-07-29T12:39:51.698518",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.27743205428123474,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 115,
+        "timestamp": "2025-07-29T12:39:51.746592",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.2769567668437958,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 116,
+        "timestamp": "2025-07-29T12:39:51.794159",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.32890820503234863,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 117,
+        "timestamp": "2025-07-29T12:39:51.845808",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.32899096608161926,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 118,
+        "timestamp": "2025-07-29T12:39:51.887270",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5916287302970886,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 119,
+        "timestamp": "2025-07-29T12:39:51.934447",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.5911821722984314,
+        "bbox": [
+            497.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 120,
+        "timestamp": "2025-07-29T12:39:51.982420",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.35316041111946106,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 121,
+        "timestamp": "2025-07-29T12:39:52.036640",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.3499177098274231,
+        "bbox": [
+            498.0,
+            195.0,
+            517.0,
+            215.0
+        ]
+    },
+    {
+        "frame_id": 128,
+        "timestamp": "2025-07-29T12:39:52.387354",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.22651894390583038,
+        "bbox": [
+            497.0,
+            13.0,
+            515.0,
+            31.0
+        ]
+    },
+    {
+        "frame_id": 129,
+        "timestamp": "2025-07-29T12:39:52.460491",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.22453346848487854,
+        "bbox": [
+            497.0,
+            13.0,
+            515.0,
+            31.0
+        ]
+    },
+    {
+        "frame_id": 130,
+        "timestamp": "2025-07-29T12:39:52.509221",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.47371426224708557,
+        "bbox": [
+            501.0,
+            11.0,
+            518.0,
+            28.0
+        ]
+    },
+    {
+        "frame_id": 131,
+        "timestamp": "2025-07-29T12:39:52.557017",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.4739988446235657,
+        "bbox": [
+            501.0,
+            11.0,
+            518.0,
+            28.0
+        ]
+    },
+    {
+        "frame_id": 132,
+        "timestamp": "2025-07-29T12:39:52.602391",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.21463643014431,
+        "bbox": [
+            504.0,
+            8.0,
+            522.0,
+            27.0
+        ]
+    },
+    {
+        "frame_id": 133,
+        "timestamp": "2025-07-29T12:39:52.655737",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.21522031724452972,
+        "bbox": [
+            504.0,
+            8.0,
+            522.0,
+            27.0
+        ]
+    },
+    {
+        "frame_id": 134,
+        "timestamp": "2025-07-29T12:39:52.696376",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.4647415280342102,
+        "bbox": [
+            506.0,
+            8.0,
+            524.0,
+            26.0
+        ]
+    },
+    {
+        "frame_id": 135,
+        "timestamp": "2025-07-29T12:39:52.742784",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.4650116264820099,
+        "bbox": [
+            506.0,
+            8.0,
+            524.0,
+            26.0
+        ]
+    },
+    {
+        "frame_id": 136,
+        "timestamp": "2025-07-29T12:39:52.787342",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.2971842288970947,
+        "bbox": [
+            509.0,
+            9.0,
+            527.0,
+            26.0
+        ]
+    },
+    {
+        "frame_id": 137,
+        "timestamp": "2025-07-29T12:39:52.845859",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.2971842288970947,
+        "bbox": [
+            509.0,
+            9.0,
+            527.0,
+            26.0
+        ]
+    },
+    {
+        "frame_id": 142,
+        "timestamp": "2025-07-29T12:39:53.084846",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.355225145816803,
+        "bbox": [
+            516.0,
+            16.0,
+            533.0,
+            33.0
+        ]
+    },
+    {
+        "frame_id": 143,
+        "timestamp": "2025-07-29T12:39:53.132746",
+        "class_id": 0,
+        "class_name": "Shuttlecock",
+        "confidence": 0.35567405819892883,
+        "bbox": [
+            516.0,
+            16.0,
+            533.0,
+            33.0
+        ]
+    }
+]

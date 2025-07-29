@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environnements
+.env
+.env.*
+
+# Fichiers de configuration secrets
+*.secret
+*.key
+
+# Données et sorties
+output/
+data/
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.weights
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Autres
+*.log
+*.bak
+*.tmp
+
+# Fichiers du modèle YOLO
+*.onnx
+*.tflite
+*.mlmodel
+*.pb
+
+# Archives
+*.zip
+*.tar.gz
+*.tar 
