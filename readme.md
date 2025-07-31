@@ -134,31 +134,6 @@ Le système détecte :
 - **Joueurs** : Boîtes bleues avec score de confiance
 - **Zone de jeu** : Masque automatique du terrain
 
-## 🚨 Dépannage
-
-### Problèmes courants
-
-1. **Erreur de modèles manquants**
-   ```
-   FileNotFoundError: ./model/weights_v2.pt
-   ```
-   **Solution** : Ajoutez les fichiers de modèles dans `app/model/`
-
-2. **Erreur de dépendances**
-   ```bash
-   pip install --upgrade -r requirements.txt
-   ```
-
-3. **Problème de performance**
-   - Réduisez `IMG_SIZE` dans les paramètres
-   - Augmentez `SKIP_FRAMES` pour traiter moins de frames
-   - Utilisez un GPU si disponible
-
-4. **Erreur YouTube**
-   - Vérifiez la validité de l'URL
-   - Assurez-vous que la vidéo est publique
-   - Mettez à jour `yt-dlp` : `pip install --upgrade yt-dlp`
-
 ## 🎯 Exemples d'utilisation
 
 ### Vidéo de démo
