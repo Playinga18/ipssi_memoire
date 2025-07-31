@@ -23,9 +23,9 @@ ipssi_mémoire/
 │   │   ├── detection_v2.py # Version avec suivi de trajectoire
 │   │   └── detection_v3.py # Version avec blacklist et optimisations
 │   └── model/
-│       ├── weights_v1.pt   # Modèle YOLO v1
-│       ├── weights_v2.pt   # Modèle YOLO v2 (recommandé)
-│       └── yolov8n.pt      # Modèle pour détection des joueurs
+│   │   └── weights_v1.pt   # modele fine tuner version 1
+│   │   └── weights_v2.pt   # modele fine tuner version 2
+│   │   └── yolov8n.pt      # modele yolo
 ├── data/                   # Jeux de données
 ├── output/                 # Résultats des détections
 ├── requirements.txt        # Dépendances Python
@@ -55,12 +55,6 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
-### 4. Modèles YOLO inclus
-Les modèles sont déjà présents dans `app/model/` :
-- `weights_v2.pt` : Modèle optimisé pour la détection du volant (recommandé)
-- `weights_v1.pt` : Modèle de base pour la détection du volant
-- `yolov8n.pt` : Modèle YOLOv8 pour la détection des joueurs
 
 ## 🎯 Utilisation
 
