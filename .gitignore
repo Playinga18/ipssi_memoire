@@ -33,11 +33,10 @@ env/
 # Données et sorties
 output/
 data/
-*.pt
+yolov8n.pt
 *.pth
 *.h5
 *.ckpt
-*.weights
 
 # Fichiers système
 .DS_Store

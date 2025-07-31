@@ -1,6 +1,0 @@
-torch
-ultralytics
-opencv-python
-numpy
-inference 
-inference-sdk
