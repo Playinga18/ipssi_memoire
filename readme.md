@@ -19,6 +19,9 @@ ipssi_mémoire/
 │   ├── ytb/
 │   │   └── detection.py    # Version OpenCV
 │   └── model/
+│   │   └── weights_v1.pt   # modele fine tuner version 1
+│   │   └── weights_v2.pt   # modele fine tuner version 2
+│   │   └── yolov8n.pt      # modele yolo
 ├── data/                   # Jeux de données
 ├── output/                 # Résultats des détections
 ├── requirements.txt        # Dépendances Python
@@ -48,11 +51,6 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
-### 4. Ajouter les modèles YOLO
-Placez vos modèles dans le dossier `app/model/` :
-- `weights_v2.pt` : Modèle pour la détection du volant
-- `yolov8n.pt` : Modèle YOLOv8 pour la détection des joueurs
 
 ## 🎯 Utilisation
 
